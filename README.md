@@ -1,0 +1,1 @@
+This simple java GUI application pulls three random images of cards playing cards (not including jokers) from the src folder of this project and displays them in the application's window.
